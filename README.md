@@ -15,6 +15,9 @@
 * Testar cenários, descobrindo e implementando metodos de aplicações
 * Para evitarmos falhas e problemas futuros.
 
+## 🤔 Cenarios
+
+
 ## 😃 Responsável
 Mateus de Queiroz Davidson
 * GitHub - https://github.com/MQueirozD
